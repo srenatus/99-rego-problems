@@ -1,3 +1,5 @@
 package lists.number_of_elements
 
-number_of_elements(a, b) = false
+number_of_elements = x {
+	x := input
+}
