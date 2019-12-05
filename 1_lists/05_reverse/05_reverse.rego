@@ -1,3 +1,5 @@
 package lists.reverse
 
-reverse(a, b) = false
+reverse = x {
+	x := input
+}
