@@ -1,3 +1,6 @@
 package lists.kth_elem
 
-element_at(a, n, b) = false
+element_at[[k, e]] {
+	k := 1
+	e := input
+}

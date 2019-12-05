@@ -1,13 +1,13 @@
 package lists.kth_elem
 
 test_simple_first {
-  element_at(["a", "b", "c"], 1, "a")
+	element_at[[1, "a"]] with input as ["a", "b", "c"]
 }
 
 test_simple_second {
-  element_at(["a", "b", "c"], 2, "b")
+	element_at[[2, "b"]] with input as ["a", "b", "c"]
 }
 
 test_simple_third {
-  element_at(["a", "b", "c"], 3, "c")
+	element_at[[3, "c"]] with input as ["a", "b", "c"]
 }
