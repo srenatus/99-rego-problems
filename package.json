@@ -1,0 +1,18 @@
+{
+  "name": "open-in-playground-helper",
+  "version": "0.0.1",
+  "description": "Redirects to a playground with the passed path's files loaded",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/srenatus/99-rego-problems"
+  },
+  "license": "Apache 2.0",
+  "keywords": []
+}
