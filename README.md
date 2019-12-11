@@ -12,6 +12,16 @@ This is a collection of exercises to help you learn [Rego](https://www.openpolic
 1. If tests pass, move onto the next exercise folder. If not, try modifying the policy and run the tests again.
 1. Repeat until you have completed all the exercises! 🎉
 
+### Where to go when you're stuck
+
+In no particular order, you may find help here:
+
+- [The OPA documentation](https://www.openpolicyagent.org/docs/latest/)
+- [The OPA slack](https://slack.openpolicyagent.org/)
+- [StackOverflow](https://stackoverflow.com), note that there's [an `open-policy-agent` tag](https://stackoverflow.com/questions/tagged/open-policy-agent)
+
+Some exercises might also provide _hints_ in their corresponding READMEs.
+
 ## Misc
 
 This repository contains a very simple nodejs app to support the "Open in Playground" links.
